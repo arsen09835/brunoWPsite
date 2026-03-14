@@ -1,0 +1,20 @@
+/*
+Theme Name: Bruno Antichità
+Theme URI: https://brunoantichita.it
+Author: Bruno Antichità
+Author URI: https://brunoantichita.it
+Description: Tema WordPress per Bruno Antichità — Valutazione e acquisto di oggettistica e arredi d'antiquariato a Firenze. Tema leggero, SEO-friendly, ottimizzato per la conversione locale.
+Version: 1.0.0
+Requires at least: 5.8
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bruno-antichita
+Tags: one-column, custom-menu, featured-images, translation-ready, blog
+*/
+
+/* ==========================================================================
+   This file is intentionally minimal.
+   All theme styles are enqueued from assets/css/main.css via functions.php.
+   ========================================================================== */
